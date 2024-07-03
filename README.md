@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-mursaleen-462b4b186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Mursaleen" height="30" width="40" /></a>
-<a href="https://colab.research.google.com/your-profile" target="blank"><img align="center" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="30" width="40" /></a>
+<a href="https://colab.research.google.com/your-profile" target="blank"><img align="center" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

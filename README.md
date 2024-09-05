@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">GitHub Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Mursaleen&show_icons=true&locale=en&layout=compac" alt="Md-Mursaleen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Mursaleen&show_icons=true&locale=en&layout=compact" alt="Md-Mursaleen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-Mursaleen&show_icons=true&locale=en" alt="Md-Mursaleen" /></p>
 

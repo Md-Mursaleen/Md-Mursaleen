@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mursaleen</h1>
 <h3 align="center">A senior at NSUT, Delhi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Mursaleen&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Mursalee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Mursaleen&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Mursaleen" /> </p>
 
 - 🌱 Currently honing my skills in **Full Stack Development, ML, and AI.**
 - 👯 Open to collaborating on **innovative open source projects.**

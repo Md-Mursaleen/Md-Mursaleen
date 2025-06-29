@@ -5,7 +5,7 @@
 
 - 🌱 Currently honing my skills in **Full Stack Development, ML, and AI.**
 - 👯 Open to collaborating on **innovative open source projects.**
-- 💬 Ask me about **React Native, React.js, HTML5, CSS3, JavaScript, Firebase, and AWS.**
+- 💬 Ask me about **React Native, React.js, HTML5, CSS3, JavaScript, TypeScript, Mobile Application Development, Ruby on Rails, Google Firebase and AWS.**
 - 📫 How to reach me **[Email](mailto:mursaleenansari085@gmail.com).**
 
 <h3 align="left">Connect with me:</h3>
